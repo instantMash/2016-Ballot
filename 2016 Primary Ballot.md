@@ -1,47 +1,43 @@
-Senator
-Patty Murray
+# 2016 Primary Ballot
 
-Congress
-Jim Moeller
+## Senator
+➔ Patty Murray
 
-Governor
-Jay Inslee
+## Congress
+➔ Jim Moeller
 
-Lieutenant Governor
-Cyrus Habib
+## Governor
+➔ Jay Inslee
 
-Secretary of State
-Tina Podlodowski
+## Lieutenant Governor
+➔ Cyrus Habib
 
-State Treasurer
-Marko Liias
+## Secretary of State
+➔ Tina Podlodowski
 
-State Auditor
-Jeff Sprung
+## State Treasurer
+➔ Marko Liias
 
-Attorney General
-Bob Ferguson
+## State Auditor
+➔ Jeff Sprung
 
-Superintendent of Public Instruction
-Erin Jones
+## Attorney General
+➔ Bob Ferguson
 
-Insurance Commissioner
-Mike Kreidler
+## Superintendent of Public Instruction
+➔ Erin Jones
 
-State Senator
-Eric Holt
+## Insurance Commissioner
+➔ Mike Kreidler
 
-State Representative Position 1
-Justin Oberg
+## State Senator
+➔ Eric Holt
 
-State Representative Position 2
-Kathy Gillespie
+## State Representative Position 1
+➔ Justin Oberg
 
-State Supreme Court
-Barbara Madsen
+## State Representative Position 2
+➔ Kathy Gillespie
 
-
-
-
-
-
+## State Supreme Court
+➔ Barbara Madsen

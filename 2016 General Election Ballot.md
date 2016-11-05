@@ -1,95 +1,85 @@
-Initiative Measure 1433
-Yes
+# 2016 General & Special Election Ballot
 
-Initiative Measure 1464
-Yes
+## Initiative Measure 1433
+➔ Yes
 
-Initiative Measure 1491
-Yes
+## Initiative Measure 1464
+➔ Yes
 
-Initiative Measure 1501
-No
+## Initiative Measure 1491
+➔ Yes
 
-Initiative Measure 732
-Yes
+## Initiative Measure 1501
+➔ No
 
-Initiative Measure 735
-Yes
+## Initiative Measure 732
+➔ Yes
 
-Advisory Vote 14
-Maintained
+## Initiative Measure 735
+➔ Yes
 
-Advisory Vote 15
-Maintained
+## Advisory Vote 14
+➔ Maintained
 
-Senate Joint Resolution 8210
-Approved
+## Advisory Vote 15
+➔ Maintained
 
-President
-Hillary Clinton
+## Senate Joint Resolution 8210
+➔ Approved
 
-Senate
-Patty Murray
+## President
+➔ Hillary Clinton
 
-Congress
-Jim Moeller
+## Senate
+➔ Patty Murray
 
-Governor
-Jay Inslee
+## Congress
+➔ Jim Moeller
 
-Lieutenant Governor
-Cyrus Habib
+## Governor
+➔ Jay Inslee
 
-Secretary of State
-Tina Podlodowski
+## Lieutenant Governor
+➔ Cyrus Habib
 
-State Treasurer
-Duane Davidson
+## Secretary of State
+➔ Tina Podlodowski
 
-State Auditor
-Pat McCarthy
+## State Treasurer
+➔ Duane Davidson
 
-Attorney General
-Bob Ferguson
+## State Auditor
+➔ Pat McCarthy
 
-Commissioner of Public Lands
-Hilary Franz
+## Attorney General
+➔ Bob Ferguson
 
-Superintendent of Public Instruction
-Erin Jones
+## Commissioner of Public Lands
+➔ Hilary Franz
 
-Insurance Commissioner
-Mike Kreidler
+## Superintendent of Public Instruction
+➔ Erin Jones
 
-State Senator
-Eric K. Holt
+## Insurance Commissioner
+➔ Mike Kreidler
 
-State Representative
-Justin Oberg
+## State Senator
+➔ Eric K. Holt
 
-State Representative
-Kathy Gillespie
+## State Representative
+➔ Justin Oberg
 
-State Supreme Court
-Mary Yu
+## State Representative
+➔ Kathy Gillespie
 
-State Supreme Court
-Barbara Madsen
+## State Supreme Court
+➔ Mary Yu
 
-State Supreme Court
-Charles Wiggins
+## State Supreme Court
+➔ Barbara Madsen
 
-Clark PUD Commissioner
-Nancy Barnes
+## State Supreme Court
+➔ Charles Wiggins
 
-
-
-
-
-
-
-
-
-
-
-
+## Clark PUD Commissioner
+➔ Nancy Barnes
